@@ -1,0 +1,25 @@
+certifi==2020.6.20
+cycler==0.10.0
+h5py==2.10.0 # problematic
+joblib==0.15.1
+kiwisolver==1.2.0
+matplotlib==3.2.2
+#mkl-fft==1.1.0
+mkl-fft # changed this to avoid error Could not find a version
+#mkl-random==1.1.1
+mkl-random
+#mkl-service==2.3.0
+mkl-service
+#numpy==1.19.0
+olefile==0.46
+Pillow
+pyparsing==2.4.7
+python-dateutil==2.8.1
+PyYAML
+scikit-learn==0.23.1 # problematic
+scipy==1.5.0  # problematic
+six==1.15.0
+threadpoolctl==2.1.0
+torch==1.5.1   # problematic
+torchvision==0.6.1 # problematic
+wincertstore==0.2

@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+
+# Data directories and large files
+data/
+openpose_output/
+PIE_valid_imgs/
+*.h5
+*.json
+
+# Output files
+*.out
+*.err
+
+# IDE files
+.idea/
+
+# Large text files
+allfiles.txt 
